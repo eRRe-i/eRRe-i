@@ -1,14 +1,10 @@
 <img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header'/>
-
 ### Olá Mundo, eu sou Leandro  👋
-
 <!--  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
 
 <!--
 ## Professor e Estudante
-- 📚 Licenciando em Física pela UFRJ (6/9).
-- 💻 Estudando Engenharia de Software na Driven.
-- ✍ Atualmente estudando React e Python.
+- 📚 Bacharel em Ciência da Computação pela UFRRJ.
 ##
 -->
 
@@ -16,10 +12,6 @@
 <div align='center'>
 <img width='50%' height='180em' src='https://github-readme-stats.vercel.app/api?username=eRRe-i&show_icons=true&theme=dark'/><img width='50%' height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=eRRe-i&layout=compact&langs_count=168&theme=dark'/>
 </div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eRRe-i&bg_color=0d1117&color=ffffff&line=696969&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ### Linguagens e Ferramentas:
 
