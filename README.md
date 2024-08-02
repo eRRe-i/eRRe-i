@@ -1,13 +1,11 @@
 <img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header'/>
-### Olá Mundo, eu sou Leandro  👋
-<!--  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
 
-<!--
-## Professor e Estudante
+### Olá Mundo, eu sou Leandro  👋
+
+
+## 
 - 📚 Bacharel em Ciência da Computação pela UFRRJ.
 ##
--->
-
 
 <div align='center'>
 <img width='50%' height='180em' src='https://github-readme-stats.vercel.app/api?username=eRRe-i&show_icons=true&theme=dark'/><img width='50%' height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=eRRe-i&layout=compact&langs_count=168&theme=dark'/>
