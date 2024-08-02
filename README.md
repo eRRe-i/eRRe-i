@@ -8,8 +8,7 @@
 ##
 
 <div align='center'>
-<img width='50%' height='180em' src='https://github-readme-stats.vercel.app/api?username=eRRe-i&show_icons=true&theme=dark'/>
-<img width='50%' height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=eRRe-i&layout=compact&langs_count=168&theme=dark&hide=html,jupyter%20notebook'/>
+<img width='50%' height='180em' src='https://github-readme-stats.vercel.app/api?username=eRRe-i&show_icons=true&theme=dark'/><img width='50%' height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=eRRe-i&layout=compact&langs_count=168&theme=dark&hide=html,jupyter%20notebook,css'/>
 </div>
 
 ### Linguagens e Ferramentas:
